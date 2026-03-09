@@ -1,30 +1,30 @@
 # 🎨 MoMA Artwork Classification App
 
-A simple and interactive **Machine Learning web app** built using **Streamlit** and the **Museum of Modern Art (MoMA) dataset** from Kaggle.
-The app predicts the **classification of an artwork** based on its features.
+A simple and interactive **Machine Learning web app** built using **Streamlit** and the **Museum of Modern Art (MoMA) dataset**.
+The app predicts the **classification of an artwork** based on artwork features.
+
+---
+
+## 🌐 Live App
+
+👉 https://momaappapp-nppygrjeyzjmaw9jvzridu.streamlit.app/
 
 ---
 
 ## 🚀 Features
 
-* 🎨 Predict artwork classification using ML
-* 📊 Visualize artwork distribution
-* 🏛 Department analytics dashboard
+* 🎨 Artwork classification prediction
+* 📊 Artwork distribution visualization
+* 🏛 Department analytics
 * 📏 Artwork size analysis
 
 ---
 
 ## 🛠 Tech Stack
 
-* **Python**
-* **Streamlit**
-* **Scikit-Learn**
-* **Pandas & NumPy**
-
----
-
-## 📂 Dataset
-
-Museum of Modern Art (MoMA) Artwork Dataset from **Kaggle**.
+* Python
+* Streamlit
+* Scikit-Learn
+* Pandas & NumPy
 
 ---
